@@ -34,9 +34,8 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        {{ content }}
-        <section>
-          <h2>Recent Posts</h2>
+         <section>
+            <h2>Recent Posts</h2>
             <ul style="border:1px; padding:10px;">
             {% for post in site.posts reversed limit:5 %}
               <li>
@@ -45,6 +44,7 @@
             {% endfor %}
             </ul>
         </section>
+        {{ content }}
       </section>
     </div>
 
