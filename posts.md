@@ -2,4 +2,4 @@
 layout: postindex
 title: Posts
 ---
-#Post Index
+# Post Index
