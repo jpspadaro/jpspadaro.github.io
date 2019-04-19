@@ -11,4 +11,4 @@ I've written a number of articles covering a variety of topics in 3D printing. T
 I've written a number of SciFi-Horror anthologies that are currently available on Amazon.com as ebooks for Kindle. | I currently manage a fleet of about 70 Macs in an educational environment. Why wouldn't I use scripting. It's all (weird) Unix under the hood anyway.
 Want to read more? Check out [here.](/writing) | What I'm currently hacking is [here.](/development)
 
-Want to [<i class="fa fa-handshake-o"></i>connect?](/contact)
+Want to [<i class="fa fa-handshake-o"></i> connect?](/contact)
