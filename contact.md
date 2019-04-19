@@ -1,4 +1,4 @@
-# Jason can be found at these places:
+# <i class="fa fa-handshake-o"></i> Jason can be found at these places:
 
 ## <i class="fa fa-level-up"></i> Upwork
 View my profile on Upwork [here.](https://www.upwork.com/o/profiles/users/_~01d477fad6d11f0e5b/)
