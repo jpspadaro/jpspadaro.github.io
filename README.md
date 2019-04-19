@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/jpspadaro/jpspadaro.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Writing|Development
--------------------
-jdshjkhdsjkahfdjkshfdk|dfjshdjksahfkjhkjdashkjfdhsajkdfshkjadfsh dfjhfdkjhdsakjhdsfkj dsjhdsjkhdfskjhdfskjhdfsjkdfhsjk dsjsdhkjdshkjdshfdfshkjdshjkds dsfjhjk
+Writing | Development
+------- | ---------
+jdshjkhdsjkahfdjkshfdk | dfjshdjksahfkjhkjdashkjfdhsajkdfshkjadfsh dfjhfdkjhdsakjhdsfkj dsjhdsjkhdfskjhdfskjhdfsjkdfhsjk dsjsdhkjdshkjdshfdfshkjdshjkds dsfjhjk
 
 ### Markdown
 
