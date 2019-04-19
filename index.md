@@ -7,4 +7,6 @@ title: Home
 ---- | ----
 __Printspace3D__ | __Heroku__
 I've written a number of articles covering a variety of topics in 3D printing. These range from a broad view of user-targeted topics to technical documentation. | Developing scalable web applications has been my most recent hobby-project. Currently I'm tinkering with a procedurely generated text adventure written in python using Heroku and Django.
-
+**Amazon KDP** | **BASH**
+I've written a number of SciFi-Horror anthologies that are currently available on Amazon.com as ebooks for Kindle. | I currently manage a fleet of about 70 Macs in an educational environment. Why wouldn't I use scripting. It's all (weird) Unix under the hood anyway.
+Want to read more? Check out [here.](/writing) | What I'm currently hacking is [here.](/development)
