@@ -1,6 +1,6 @@
 # Jason Spadaro #
 
-Writing | Development
+[Writing](writing) | [Development](development)
 ------- | ---------
 jdshjkhdsjkahfdjkshfdk | dfjshdjksahfkjhkjdashkjfdhsajkdfshkjadfsh dfjhfdkjhdsakjhdsfkj dsjhdsjkhdfskjhdfskjhdfsjkdfhsjk dsjsdhkjdshkjdshfdfshkjdshjkds dsfjhjk
 
