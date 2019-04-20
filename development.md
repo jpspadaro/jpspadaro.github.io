@@ -9,6 +9,6 @@ Python is a kind of weird langauge...not [brainf\*ck](https://en.wikipedia.org/w
 [Places Dark](https://places-dark.herokuapp.com/) is a procedurally generated text-adventure I've been playing with. I doubt it'll be a polished final product ever, but it's fun to tinker with and expand. It's my first foray into working with Heroku and DJango.
 
 ### Fabric
-
+I'm currently transitioning the Mac environment to a combination of [Munki](https://www.munki.org/munki/), MDM, and iPython/Fabric. Fabric in combination with the included json and csv libraries make remote terminal execution a lot smoother than the clunky tools provided by Apple Remote Desktop.
 
 
