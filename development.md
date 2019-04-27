@@ -6,7 +6,7 @@ I've had a soft spot in my heart for BASH scripting for a long time - I first be
 Python is a kind of weird langauge...not [brainf\*ck](https://en.wikipedia.org/wiki/Brainfuck) level weird, but weird and wonderful. It really lends itself to getting out of the way, and lets the discipline fall in the programmers lap. The [Zen of Python](https://www.python.org/dev/peps/pep-0020/) sums it up a lot.
 ### Heroku
 #### Butterknife
-A Python library for webscraping building off of BeautifulSoup. find it [here.](https://github.com/jpspadaro/butterknife)
+A Python library for webscraping building off of BeautifulSoup. Find it [here.](https://github.com/jpspadaro/butterknife)
 
 #### Places Dark
 [Places Dark](https://places-dark.herokuapp.com/) is a procedurally generated text-adventure I've been playing with. I doubt it'll be a polished final product ever, but it's fun to tinker with and expand. It's my first foray into working with Heroku and DJango.
