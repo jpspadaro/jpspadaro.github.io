@@ -3,7 +3,6 @@ title: Jekyll's Simplicity
 date: 2019-05-23
 layout: post
 ---
-# Jekyll
 
 As more of my person workflow depends on markdown, I'm finding myself enjoying using it in combination with Jekyll for web.
 
