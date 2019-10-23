@@ -3,7 +3,7 @@
 ## Blogging
 
 ### The Wind, The Night
-A fiction piece I've been working on in a [blog](jspadaro.writeas.com) format.
+A fiction piece I've been working on in a [blog](https://jpspadaro.writeas.com) format.
 
 ### Printspace 3D
 View my author's page [here.](https://www.printspace3d.com/author/jspadaro/)
