@@ -14,9 +14,16 @@ title: Home
 >
 > Want to read more? Check out [here.](/writing)
 
+---
+
 > # <i class="fa fa-desktop"></i> Development
 > ## Heroku
 > Developing scalable web applications has been my most recent hobby-project. Currently I'm tinkering with a procedurely generated text adventure written in python using Heroku and Django.
+> ## BASH
+> I currently manage a fleet of about 70 Macs in an educational environment. Why wouldn't I use scripting. It's all (weird) Unix under the hood anyway.
+> 
+> What I'm currently hacking is [here.](/development)
+
 
 <i class="fa fa-pencil-square-o"></i> Writing | <i class="fa fa-desktop"></i> Development
 ---- | ----
