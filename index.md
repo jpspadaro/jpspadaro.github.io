@@ -11,6 +11,7 @@ title: Home
 > An online fiction piece I've been writing in blog format.
 > ## Amazon KDP
 > I've written a number of SciFi-Horror anthologies that are currently available on Amazon.com as ebooks for Kindle.
+>
 > ---
 > Want to read more? Check out [here.](/writing)
 
@@ -21,6 +22,7 @@ title: Home
 > Developing scalable web applications has been my most recent hobby-project. Currently I'm tinkering with a procedurely generated text adventure written in python using Heroku and Django.
 > ## BASH
 > I currently manage a fleet of about 70 Macs in an educational environment. Why wouldn't I use scripting. It's all (weird) Unix under the hood anyway.
+>
 > ---
 > What I'm currently hacking is [here.](/development)
 
