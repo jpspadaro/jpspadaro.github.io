@@ -4,7 +4,7 @@ title: Home
 ---
 
 
-> #<i class="fa fa-pencil-square-o"></i> Writing
+> # <i class="fa fa-pencil-square-o"></i> Writing
 > ## Printspace3D
 > I've written a number of articles covering a variety of topics in 3D printing. These range from a broad view of user-targeted topics to technical documentation.
 > ## The Wind, The Night
