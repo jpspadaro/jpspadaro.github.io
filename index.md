@@ -17,6 +17,8 @@ title: Home
 
 ---
 
+---
+
 > # <i class="fa fa-desktop"></i> Development
 > ## Heroku
 > Developing scalable web applications has been my most recent hobby-project. Currently I'm tinkering with a procedurely generated text adventure written in python using Heroku and Django.
