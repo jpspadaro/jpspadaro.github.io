@@ -3,8 +3,9 @@ layout: index
 title: Home
 ---
 
-<i class="fa fa-grin-tongue-wink"></i> [Tools Wiki](/git-wiki)
-*AKA what I'm working with.*
+> <i class="fas fa-grin-tongue-wink"></i> [Tools Wiki](/git-wiki)
+>
+> *AKA what I'm working with.*
 
 > # <i class="fa fa-pencil-square-o"></i> Writing
 > ## Printspace3D
