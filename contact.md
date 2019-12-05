@@ -12,3 +12,4 @@ My [github profile.](https://github.com/jpspadaro)
 My [hackerone profile.](https://hackerone.com/jpspadaro)
 - ### <i class="fa fa-share-square-o"></i> Mastadon - writing.exchange
 @jpspadaro@writing.exchange
+[Profile](https://writing.exchange/@jpspadaro)
