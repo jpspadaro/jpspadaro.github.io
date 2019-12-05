@@ -3,11 +3,15 @@ layout: index
 title: Home
 ---
 
-> # [<i class="fa fa-grin-tongue-wink"></i>Tools Wiki](/git-wiki)
+> # [<i class="fab fa-wikipedia-w"></i>Tools Wiki](/git-wiki)
 >
 > *AKA what I'm working with.*
 
-> # <i class="fab fa-wikipedia-w"></i> Writing
+---
+
+---
+
+> # <i class="fa fa-pencil-square-o"></i> Writing
 > ## Printspace3D
 > I've written a number of articles covering a variety of topics in 3D printing. These range from a broad view of user-targeted topics to technical documentation.
 > ## The Wind, The Night
