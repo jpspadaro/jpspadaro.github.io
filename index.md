@@ -3,7 +3,7 @@ layout: index
 title: Home
 ---
 
-> # [<i class="fab fa-wikipedia-w"></i>Tools Wiki](/git-wiki)
+> # [<i class="fa fa-wikipedia-w"></i>Tools Wiki](/git-wiki)
 >
 > *AKA what I'm working with.*
 
