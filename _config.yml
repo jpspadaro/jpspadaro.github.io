@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Jason Spadaro
 description: Writer, Developer
+
+site.analytics: UA-154129349-1
