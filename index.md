@@ -3,7 +3,7 @@ layout: index
 title: Home
 ---
 
-> # [<i class="fa fa-pencil-square-o"></i> ***The Wind, The Night*** Archive](https://jpspadaro.github.io/thewindthenight
+> # [<i class="fa fa-pencil-square-o"></i> ***The Wind, The Night*** Archive](https://jpspadaro.github.io/thewindthenight)
 
 > # [<i class="fa fa-cog"></i> Tools Wiki](/git-wiki)
 >
