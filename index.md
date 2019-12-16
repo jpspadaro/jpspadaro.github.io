@@ -35,6 +35,7 @@ title: Home
 > I currently manage a fleet of about 70 Macs in an educational environment. Why wouldn't I use scripting? It's all (weird) Unix under the hood anyway.
 > ## The Naughty Print Maker
 > My wife's wordpress site for her art work.
+> ![](http://www.thenaughtyprintmaker.com/wp-content/uploads/2019/12/72062303_115764993162857_5250521111891804160_o.jpg)
 >
 > ---
 > What I'm currently hacking is [here.](/development)
