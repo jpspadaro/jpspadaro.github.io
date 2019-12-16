@@ -39,5 +39,7 @@ title: Home
 > ---
 > What I'm currently hacking is [here.](/development)
 
+---
+
 
 Want to [<i class="fa fa-handshake-o"></i> connect?](/contact)
