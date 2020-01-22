@@ -4,7 +4,7 @@ title: Rustiness
 ---
 
 
-# ![](https://www.rust-lang.org/static/images/rust-logo-blk.svg)ustiness
+![](https://www.rust-lang.org/static/images/rust-logo-blk.svg)
 
 So after working with Go and working with Rust for a little bit, Rust has won out as far as what I focus on. Don't get me wrong, I love the `go` keyword for concurrency. It's nice to see it baked in like that.
 
